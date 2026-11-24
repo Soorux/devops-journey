@@ -1,0 +1,12 @@
+# Datos de ejercicios (no se suben)
+data.txt
+datos*
+data*.bin
+*.gz
+*.bz2
+*.tar
+# Contraseñas y claves: nunca al repositorio
+*password*
+*.private
+*.pem
+.env
